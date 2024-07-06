@@ -1,3 +1,10 @@
-# Information Security with HelmetJS
+# Information Security with JustJLineIT HelmetJS
 
-This is the boilerplate for the Information Security lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
+
+
+This is the application I made to follow along with the FreecodecMap Info Security Tutorial (https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/install-and-require-helmet)
+
+https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
+
+
+For more information go to JustJLineIT
