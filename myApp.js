@@ -7,11 +7,21 @@ const app = express();
 app.use(helmet.hidePoweredBy());
 app.use(helmet.frameguard({action:'deny'}));
 
+
+
 /*app.get('/',(req,res) =>{
   res.send('Hello World!')
-});
-*/
+  });
+  */
+ 
+  app.use(helmet.xssFilter());
 
+/**
+ * 
+ * 11/13/24 at 10:40 PM
+ * Mitigate the risk of corss site scripting XSS Attacks
+ * 
+ */
 
 
 module.exports = app;
