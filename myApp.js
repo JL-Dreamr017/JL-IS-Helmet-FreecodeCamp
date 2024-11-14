@@ -10,12 +10,6 @@ app.use(helmet.xssFilter());
 app.use(helmet.noSniff());
 
 
-/*app.get('/',(req,res) =>{
-  res.send('Hello World!')
-  });
-  */
- 
-
 /**
  * 
  * 11/13/24 at 10:40 PM
